@@ -15,7 +15,7 @@ What I’m working on:
 Let's Connect:
 💬 Feel free to reach out to discuss data, projects, or just to say hello!
 📧 gaganpratapsingh1314@gmail.com
-🔗 www.linkedin.com/in/gagan-pratap-singh-5203aa213 | (https://github.com/Gaganthakur2002/mysql-cars-dekho-portlfolio)
+🔗 www.linkedin.com/in/gagan-pratap-singh-5203aa213 | (https://github.com/Gaganthakur2002/mysql-cars-dekho-portlfolio) | (https://github.com/Gaganthakur2002/Walmart-sales-portfolio)
 
 
 <!---
